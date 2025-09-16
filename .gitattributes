@@ -3,3 +3,7 @@
 *.h   linguist-language=C++
 *.cc  linguist-language=C++
 *.cxx linguist-language=C++
+
+
+*.docx linguist-detectable=false
+*.pdf linguist-detectable=false
